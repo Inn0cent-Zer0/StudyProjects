@@ -1,4 +1,5 @@
-name<-'vaishnavi'
+#R program to get the details of the objects in memory
+name<-'Martin Lurther'
 name
 reg<-100
 reg
