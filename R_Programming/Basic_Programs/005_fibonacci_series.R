@@ -1,3 +1,5 @@
+# R program to get the first 10 Fibonacci numbers.
+
 f1=0
 f2=1
 i=1
