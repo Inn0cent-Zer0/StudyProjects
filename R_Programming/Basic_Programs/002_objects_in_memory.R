@@ -1,0 +1,9 @@
+name<-'vaishnavi'
+name
+reg<-100
+reg
+s=c(10,20,30)
+s
+print(ls())
+print('details\n')
+print(ls.str())
