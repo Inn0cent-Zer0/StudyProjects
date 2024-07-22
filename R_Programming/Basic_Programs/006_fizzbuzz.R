@@ -1,4 +1,5 @@
-#R program to get the first 10 Fibonacci numbers.
+#R program to print the numbers from 1 to 100 and print "Fizz" for multiples of 3, print "Buzz"
+# for multiples of 5, and print "FizzBuzz" for multiples of both.
 
 for(n in 1:100)
 {
