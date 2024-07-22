@@ -16,6 +16,9 @@ library(knitr)        # For dynamic report generation
 #  I  have downloaded the data set from 
 #  https://www.kaggle.com/datasets/piyushgoyal443/red-wine-dataset?resource=download
 #  the data set is free to download 
+# video link : https://youtu.be/oYjnB3c4o1Q?si=ut2IHEjJy7H2o9A0
+# this is the video from which I have learned to write this program.
+# Feel Free to Blame 
   
 # Load the dataset (replace the path with your actual file path)
 senior <- read.csv('D:/004_R_Programming/wineQualityReds.csv')
