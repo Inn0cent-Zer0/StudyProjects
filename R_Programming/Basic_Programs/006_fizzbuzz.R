@@ -1,3 +1,5 @@
+#R program to get the first 10 Fibonacci numbers.
+
 for(n in 1:100)
 {
   if(n%%3==0&n%%5==0)
