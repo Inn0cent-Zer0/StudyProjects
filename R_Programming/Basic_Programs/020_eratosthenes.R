@@ -1,3 +1,5 @@
+#R program to get all prime numbers up to a given number (based on the sieve of
+# Eratosthenes).
 prime_numbers<-function(n)
 {
    if(n>=2)
