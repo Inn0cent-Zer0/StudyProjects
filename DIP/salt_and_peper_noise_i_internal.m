@@ -1,4 +1,4 @@
-I = imread('D:/Vaishnavi/008_Matlab/Images/sun.jpg');
+I = imread('sun.jpg');
 figure;
 subplot(1,2,1);
 imshow(I);
