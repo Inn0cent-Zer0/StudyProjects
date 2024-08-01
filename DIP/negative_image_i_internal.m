@@ -1,4 +1,4 @@
-Image = imread('C:/Users/vaish/OneDrive/Pictures/Screenshots/sun.jpg');
+Image = imread('sun.jpg');
 figure;
 subplot(1,2,1);
 imshow(Image);
