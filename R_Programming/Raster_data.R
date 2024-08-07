@@ -11,7 +11,7 @@ library(ggplot2)
 # download the data from the below link
 #https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3FSeFVtVzJqQ3dxSEphdEtUTHFVUVZPNGVfQXxBQ3Jtc0trR2xtSU44Y0tKeW9rSGdfa1NXdmR1bXFsUVdTY2xMUk16Z3VGVV8zWTVVRTFyMnQwck5kazR2MjdseHVaeFlEbmI2MDRpbnc0WWxtUDM4aW45NGdCVVRLNGRGT00zQjZCMlZqVzN4TnR6WGNzZy1mQQ&q=https%3A%2F%2Fdatacarpentry.org%2Fsemester-biology%2Fdata%2Fneon-geospatial-data.zip&v=F
 # Read the Digital Terrain Model (DTM) elevation data from a TIFF file
-dtm_harv <- read_stars("D:/Vaishnavi/004_R_Programming/neon-geospatial-data/harv/harv_dtmcrop.tif")
+dtm_harv <- read_stars("D:/R_Programming/neon-geospatial-data/harv/harv_dtmcrop.tif")
 
 # Display the imported data to confirm it has been loaded correctly
 dtm_harv
