@@ -1,4 +1,4 @@
-img = imread('jsg (Custom).jfif');
+img = imread('jsg.jfif');
 
 % Rotate the image by a specified angle (in degrees)
 angle = 30;
