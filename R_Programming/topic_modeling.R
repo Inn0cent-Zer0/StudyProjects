@@ -5,7 +5,7 @@ library(topicmodels)
 library(tm)
 library(ggplot2)
 library(dplyr)
-setwd('D:/Vaishnavi/004_R_Programming/pdfs')
+setwd('D:/R_Programming/pdfs')
 # List all PDF files in the directory
 All_Files <- list.files(pattern = "pdf$")
 All_Files
