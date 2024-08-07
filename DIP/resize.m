@@ -1,4 +1,4 @@
-img = imread('jsg (Custom).jfif');
+img = imread('jsg.jfif');
 imshow(img)
 % Resize the image to a specific width and height
 newWidth = 200;
