@@ -4,7 +4,7 @@ library(forecast)  # For time series forecasting
 library(tseries)   # For time series analysis
 
 # Read GDP data from Excel file
-gdp <- read_excel("D:/Vaishnavi/004_R_Programming/GDP.xlsx")
+gdp <- read_excel("D:/R_Programming/GDP.xlsx")
 View(gdp)  # View the dataset in Excel format
 
 # Check the class of gdp to ensure it's correctly read
